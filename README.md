@@ -41,13 +41,6 @@ Aplicación web full-stack para gestionar apuestas informales con:
 - **Features**: Sistema de notificaciones, historial de apuestas, ranking de usuarios
 
 
----
-
-## 📊 Métricas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wPabloR&show_icons=true&theme=radical&hide_title=true&hide=issues)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wPabloR&layout=compact&theme=radical&hide_title=true)
 
 ---
 
