@@ -3,8 +3,6 @@
 ## 🚀 Sobre mí  
 Soy un **Desarrollador Full Stack** apasionado con especialización en **React, Python y APIs REST**. Mi día a día gira en torno a la programación, donde constantemente aprendo nuevas tecnologías, experimento con diferentes stacks y creo proyectos innovadores.
 
-💡 **Actualmente desarrollando**: Una aplicación de **apuestas entre amigos** con React frontend y Python backend, implementando autenticación JWT y APIs RESTful.
-
 ---
 
 ## 🛠️ Stack Tecnológico  
